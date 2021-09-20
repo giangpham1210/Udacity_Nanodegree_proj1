@@ -3,7 +3,7 @@
 This repository is for my first project in Udacity Nanodegree Data Science course.
 
 >- My notebook: https://github.com/giangpham1210/Udacity_Nanodegree_proj1/blob/main/boston-airbnb.ipynb
->- My blog: https://www.kaggle.com/giangphamhl/boston-airbnb?scriptVersionId=75215457
+>- My blog: https://www.kaggle.com/giangphamhl/boston-airbnb?scriptVersionId=75223508
 
 ## 1.	Objective:
 This is my first project for Udacity Data Science Nanodegree and it is to understand some insights and to check the feature correlations of Boston AirBnB data.
