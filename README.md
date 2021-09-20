@@ -1,4 +1,4 @@
-# Udacity_Nanodegree_proj1
+[Udacity_Nanodegree_DataScience] Boston AirBNB
 This repository is for my first project in Udacity Nanodegree Data Science course.
 
 >- My notebook: https://github.com/giangpham1210/Udacity_Nanodegree_proj1/blob/main/boston-airbnb.ipynb
